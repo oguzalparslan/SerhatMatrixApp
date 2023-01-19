@@ -13,6 +13,7 @@ namespace MatrixOperations
         {
             Console.WriteLine("Matrisin satır sayısını giriniz:");
             int a = Convert.ToInt32(Console.ReadLine());
+
             Console.WriteLine("Matrisin sütun sayısını giriniz:");
             int b = Convert.ToInt32(Console.ReadLine());
 
